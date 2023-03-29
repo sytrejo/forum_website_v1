@@ -46,6 +46,11 @@
     margin-top: 5%;
 }
 
+#banner_image{
+    width: 100%;
+    max-height:200px;
+}
+
 .main_post_box{
     padding: 20px;
 }
@@ -78,3 +83,10 @@
     margin-top: 5px;
 }
 
+.categories_box{
+    display: flex;
+}
+
+.categories_child{
+    flex: 1;
+}
