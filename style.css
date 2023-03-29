@@ -1,0 +1,21 @@
+.title_box{
+    display: flex;
+}
+
+.title_box_child{
+    flex: 1;
+}
+
+.title-image{
+    padding-left: 20%;
+}
+
+.title_text{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 5%;
+}
+
+.search_input{
+    width: 80%;
+}
