@@ -6,16 +6,75 @@
     flex: 1;
 }
 
-.title-image{
-    padding-left: 20%;
-}
 
 .title_text{
     font-size: xx-large;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-left: 5%;
+    padding: 10%;
 }
 
 .search_input{
-    width: 80%;
+    width: 90%;
 }
+
+.navlist{
+    background-color: #6796be75;
+    position: absolute;
+    width: 100%;
+    margin-top: 1em;
+}
+
+.navlist li{
+    float:left;
+    display: inline;
+    text-align: center;
+    text-decoration: none;
+}
+
+.navlist a{
+    color: black;
+    padding-right: 12px;
+}
+
+.navlist a:hover{
+    color: grey;
+    background-color: azure;
+}
+
+.banner_container{
+    width: 100%;
+    margin-top: 5%;
+}
+
+.main_post_box{
+    padding: 20px;
+}
+
+.main_post_child1{
+    width: 25%;
+    height: 100%;
+    float: left;
+    padding:10px;
+}
+
+.main_post_child2{
+    width: 70%;
+    float: right;
+    padding: 10px;
+}
+
+.user_child1{
+    width: 35%;
+    float:left;
+}
+
+.user_child2{
+    width: 55%;
+    float: right;
+}
+
+#user_avatar{
+    width: 100%;
+    margin-top: 5px;
+}
+
