@@ -1,3 +1,7 @@
+body{
+    background-color: #afc6db75;
+    color: black;
+}
 .title_box{
     display: flex;
 }
@@ -23,7 +27,7 @@
 }
 
 .navlist{
-    background-color: #6796be75;
+    background-color: #22619775;
     position: absolute;
     width: 100%;
     margin-top: 1em;
